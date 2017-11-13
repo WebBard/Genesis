@@ -69,8 +69,11 @@ Sass has good [documentation](http://sass-lang.com/guide) which will propel your
 >npm install
 
 #### Gulp setup
+
 >**pug** change source (the compiled single pug file) and destination of output html
+
 >**sass** the source for separate sass folder for .sass and .scss files  and desination for single css output
+
 >**watch** the destination of files that will trigger browserSync
 
 #### I'm confused
