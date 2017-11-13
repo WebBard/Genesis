@@ -62,16 +62,19 @@ Sass has good [documentation](http://sass-lang.com/guide) which will propel your
 **Gulp** doesn't require javascript skills but you have to at least read through guides to modify destination path or add your own functions. [CSS-TRICKS](https://css-tricks.com/gulp-for-beginners/) has a nice tutorial for gulp and [Traversy Media](https://www.youtube.com/watch?v=1rw9MfIleEg) has mini crash course for this topic.
 
 
-#Real Thing That Matters
+# Things that Matter
 **Before you continue your exploration, be sure to have Node.js installed for seamless journey**
 
-####Installation of dependencies
+#### Installation of dependencies
 >npm install
 
-####Gulp setup
+#### Gulp setup
+
 >**pug** change source (the compiled single pug file) and destination of output html
+
 >**sass** the source for separate sass folder for .sass and .scss files  and desination for single css output
+
 >**watch** the destination of files that will trigger browserSync
 
-####I'm confused
+#### I'm confused
 My project structure was inspired by DevTips project setup tutorial which can help to understand the process, [part 1](https://www.youtube.com/watch?v=nY4kQssg3lw&list=PLqGj3iMvMa4KeBN2krBtcO3U90_7SOl-A&index=5) and [part 2](https://www.youtube.com/watch?v=Wm-BhGoaD70&list=PLqGj3iMvMa4KeBN2krBtcO3U90_7SOl-A&index=6). His video includes jekyll which I do not have but you will learn lots of things including the css folder structure that I followed. 
